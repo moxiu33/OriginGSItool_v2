@@ -1,9 +1,6 @@
 ## Requirements
     Linux, WSL or Mac
 
-## Released GSIs
-Install pre-built GSI from here: https://t.me/OfficialOriginGSI
-
 ## How to use
 
 ### Download tools
