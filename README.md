@@ -6,7 +6,7 @@
 ### Download tools
 ```
 git clone --recurse-submodules https://github.com/moxiu33/OriginGSItool_v2
-cd OriginGSItool
+cd OriginGSItool_v2
 ```
 
 ### For setting up requirements
