@@ -5,7 +5,7 @@
 
 ### Download tools
 ```
-git clone --recurse-submodules https://github.com/origingsi/OriginGSItool
+git clone --recurse-submodules https://github.com/moxiu33/OriginGSItool_v2
 cd OriginGSItool
 ```
 
