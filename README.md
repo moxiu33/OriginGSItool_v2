@@ -9,6 +9,18 @@ git clone --recurse-submodules https://github.com/moxiu33/OriginGSItool_v2
 cd OriginGSItool_v2
 ```
 
+### before setup run this
+```
+python -m venv myenv
+```
+
+then
+
+```
+source myenv/bin/activate
+```
+
+and continue in this venv
 ### For setting up requirements
     bash setup.sh
 
